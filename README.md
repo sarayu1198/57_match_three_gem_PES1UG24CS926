@@ -94,4 +94,4 @@ This project was completed with ChatGPT as the LLM debugging and
 pair-programming assistant.
 
 Complete conversation:
-[ChatGPT Conversation][(PASTE-YOUR-SHARE-LINK-HERE)](https://chatgpt.com/c/6ac72bdf-c4fc-83e8-87fb-e96477b9924f)
+[ChatGPT Conversation][(LINK)](https://chatgpt.com/c/6ac72bdf-c4fc-83e8-87fb-e96477b9924f)
