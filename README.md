@@ -87,3 +87,11 @@ Submission is only the following three things:
 - [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
 - [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
 - [] The Chat/LLM used page link, with the complete chat history
+
+## LLM / ChatGPT Conversation
+
+This project was completed with ChatGPT as the LLM debugging and
+pair-programming assistant.
+
+Complete conversation:
+[ChatGPT Conversation][(PASTE-YOUR-SHARE-LINK-HERE)](https://chatgpt.com/c/6ac72bdf-c4fc-83e8-87fb-e96477b9924f)
